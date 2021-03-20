@@ -1,0 +1,23 @@
+{
+  "name": "Api_web_NodeJs_Express_Microsoft",
+  "version": "1.0.0",
+  "description": "Cours Microsoft créer une api Web avec Node js et Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyrilTm/Api_web_NodeJs_Express_Microsoft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyrilTm/Api_web_NodeJs_Express_Microsoft/issues"
+  },
+  "homepage": "https://github.com/cyrilTm/Api_web_NodeJs_Express_Microsoft#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
